@@ -82,7 +82,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 	<!-- Here is the first password of the total of seven: Bootstrap_Rulez
 	The first one was easy, so go go find the other six...
-	versie 0.3
+	versie 0.4
 	  -->
 
       </main>
